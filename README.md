@@ -75,3 +75,12 @@ With a link to the comment in order to make easier for you to respond.
 On `index.js` you can change  `recheckIntervalInMinutes` to set how often you want to check for new comments. Default value is 10 minutes.
 
 With some coding skills you can easily change the values of the payload to send different information with want.
+
+## Donations
+
+If this was of some help to you, please donate *your time* and rate my game submission for the 6th Brackeys Game Jam.
+
+
+[![Babel](https://i.ibb.co/B4r1ryQ/logo2.png)][1]
+
+[1]:https://itch.io/jam/brackeys-6/rate/1177704
