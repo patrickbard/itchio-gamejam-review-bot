@@ -64,11 +64,12 @@ Where:
 
 This will send a message like this to your desired Discord channel
 
-![Discord message](https://i.ibb.co/G27KBQv/Screenshot-2021-08-31-172113.jpg)
+![Discord message](https://i.ibb.co/MsJQz1x/Screenshot-2021-08-31-172053.jpg)
 
 With a link to the comment in order to make easier for you to respond.
 
-![Comment Link](https://i.ibb.co/MsJQz1x/Screenshot-2021-08-31-172053.jpg)
+![Comment Link](https://i.ibb.co/G27KBQv/Screenshot-2021-08-31-172113.jpg)
+
 
 ## Extra
 
