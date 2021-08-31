@@ -1,0 +1,20 @@
+{
+  "name": "itchio-gamejam-review-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "patrick.bard",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer-core": "^5.2.1",
+    "axios": "^0.21.1",
+    "dateformat": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
